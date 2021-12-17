@@ -1,8 +1,8 @@
 <html>
 <head>
-	<title>RCTeam Site</title>
+	<title>RCTeam Sitio</title>
 </head>
 <body>
-	<h1>Welcome to RC Team Site</h1>
+	<h1>Bienvenidos a RC Team Site</h1>
 </body>
 </html>
